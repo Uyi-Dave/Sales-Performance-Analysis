@@ -1,7 +1,9 @@
 # Sales Performance Analysis – 2019
 
 **Company:** Electra Retail Inc. (fictional electronics retailer)
+
 **Prepared for:** Sales Strategy Team (primary), Executive Management (secondary)
+
 **Analytics Stack:** Power BI (with DAX measures & calculated columns)
 
 ## 1. Project Background
