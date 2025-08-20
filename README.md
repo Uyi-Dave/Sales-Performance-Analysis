@@ -1,10 +1,8 @@
 # Sales Performance Analysis – 2019
 
-### **Company:** Electra Retail Inc. (fictional electronics retailer)
-
-### **Prepared for:** Sales Strategy Team (primary), Executive Management (secondary)
-
-### **Analytics Stack:** Power BI (with DAX measures & calculated columns)
+**Company:** Electra Retail Inc. (fictional electronics retailer)
+**Prepared for:** Sales Strategy Team (primary), Executive Management (secondary)
+**Analytics Stack:** Power BI (with DAX measures & calculated columns)
 
 ## 1. Project Background
 Electra Retail Inc. sells consumer electronics across major U.S. cities (laptops, smartphones, monitors, TVs, accessories, and select home electronics). This report analyzes 2019 transactions to identify which products, time windows, and cities should be prioritized to maximize revenue in the coming planning cycle.
